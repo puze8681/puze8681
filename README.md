@@ -6,7 +6,6 @@
 
 ### Now
 
-- **Product Engineer @ HYPERNOVA** — [Heyring AI](https://puze8681.github.io/portfolio/heyring-ai), an AI phone-tutoring service. Rebuilt mobile CI/CD (build time 21 min → 6 min, ~71% faster) and redesigned the scheduled-call pipeline into scheduler / dispatcher / queue / worker.
 - **External DX & AI projects** — RAG chatbot for university regulations, a DX platform for an admissions consulting lab, and finance/ops automation for a US security startup.
 - **Computer & Electronic Systems Engineering @ Hankuk University of Foreign Studies** (in progress)
 
@@ -14,6 +13,7 @@
 
 | Project | What I did | Impact |
 | --- | --- | --- |
+| [Heyring AI](https://puze8681.github.io/portfolio/heyring-ai) | Rebuilt mobile CI/CD and split the scheduled-call pipeline into scheduler / dispatcher / queue / worker | Build time 21 min → 6 min (~71% faster) |
 | [It'sMe 2.0](https://puze8681.github.io/portfolio/itsme) | Shipped the first Flutter app in 2 months; built membership, points, coupons, and payments | 1 → 13 universities, 110k+ users, 60k+ MAU\* |
 | [It's Meal](https://puze8681.github.io/portfolio/itsmeal) | Designed an in-house store-ops suite: POS, KDS, kiosk, ticket scanner, sales reports | 100+ stores, 300+ devices\* |
 | Barrier-free Kiosk | Led the build from first meeting to certification (TTS, high contrast, low-reach mode) | Passed NIA accessibility verification |
@@ -31,7 +31,7 @@ Also: LLM / RAG / agentic workflows · Playwright automation · Fastlane · Sent
 
 ### Background
 
-- Whiteblock (2021–2026) · loplat (2021) · Android developer at early-stage startups (2019–2020)
+- HYPERNOVA (2026.07–2026.09) · Whiteblock (2021–2026) · loplat (2021) · Android developer at early-stage startups (2019–2020)
 - SW Maestro 9th · Sunrin Internet High School · 8 hackathon & app-contest awards
 
 ### Contact
