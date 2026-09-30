@@ -1,39 +1,48 @@
-## Taejun Park
+## Taejun Park · 박태준
 
-**Product Engineer · Mobile & AI** — 7 years of shipping products end to end: Flutter apps, web and backend services, AI workflows, and the infra that keeps them running.
+**Product Engineer · Mobile Systems · AI/AX**
 
-모바일부터 AI·인프라까지, 실제로 운영되는 제품을 만드는 7년차 Product Engineer입니다.
+I turn complex problems and early ideas into products that actually run in production. Mobile-first for 7 years, I connect web and backend, deployment and operations, on-site hardware, and AI workflows — from 0→1 launch through customer adoption and long-term operation.
 
-### Now
+복잡한 문제와 아이디어를 실제로 운영되는 제품으로 만드는 7년차 Product Engineer입니다.
 
-- **External DX & AI projects** — RAG chatbot for university regulations, a DX platform for an admissions consulting lab, and finance/ops automation for a US security startup.
-- **Computer & Electronic Systems Engineering @ Hankuk University of Foreign Studies** (in progress)
+### How I build
+
+- **Mobile product ownership** — Flutter iOS/Android architecture, features, release, and operational quality, owned at the product level.
+- **0→1 and scale** — Turn unclear requirements into a first release, then carry it through customer adoption and long-term operation.
+- **Beyond the app boundary** — Web, backend, infra, payments, and on-site devices, as far as the problem needs.
+- **AI/AX workflows** — Redesign repetitive human workflows so AI can assist or automate them in real operations.
 
 ### Selected work
 
-| Project | What I did | Impact |
+| | Project | Outcome |
 | --- | --- | --- |
-| [Heyring AI](https://puze8681.github.io/portfolio/heyring-ai) | Rebuilt mobile CI/CD and split the scheduled-call pipeline into scheduler / dispatcher / queue / worker | Build time 21 min → 6 min (~71% faster) |
-| [It'sMe 2.0](https://puze8681.github.io/portfolio/itsme) | Shipped the first Flutter app in 2 months; built membership, points, coupons, and payments | 1 → 13 universities, 110k+ users, 60k+ MAU\* |
-| [It's Meal](https://puze8681.github.io/portfolio/itsmeal) | Designed an in-house store-ops suite: POS, KDS, kiosk, ticket scanner, sales reports | 100+ stores, 300+ devices\* |
-| Barrier-free Kiosk | Led the build from first meeting to certification (TTS, high contrast, low-reach mode) | Passed NIA accessibility verification |
-| [WVCAT](https://puze8681.github.io/portfolio/wvcat) | Unified 4 payment-terminal protocols (NVCAT, WVCAT, JTNET, AppPos) behind one Android interface | Provider-based, extensible to new terminals |
-| [HUFS AI Academic Chatbot](https://puze8681.github.io/portfolio/hufs-ai-chatbot) | RAG over university regulations with cited clauses | ~80 DAU, ~300 questions/day in week 2 |
-| [That's One DX Platform](https://puze8681.github.io/portfolio/thats-one) | Admin web, student PWA, and kiosk; moving counseling into AI workflows | In progress (through 2026.10) |
+| 01 | [Heyring AI](https://puze8681.github.io/portfolio/heyring-ai)<br><sub>AI phone-based language learning · HYPERNOVA</sub> | Mobile build 21 min → 6 min (~71%) · Japanese learning and phrase saving · redesigned scheduled calls into scheduler / dispatcher / queue / worker |
+| 02 | [It'sMe](https://puze8681.github.io/portfolio/itsme) · [It's Meal](https://puze8681.github.io/portfolio/itsmeal)<br><sub>Campus platform + store-ops suite · Whiteblock</sub> | Shipped in 2 months → first customer HUFS → 13 universities, 100+ stores, 300+ devices · core product dev through the company's turn to profitability |
+| 03 | [HUFS AI Academic Chatbot](https://puze8681.github.io/portfolio/hufs-ai-chatbot)<br><sub>Education AX PoC · [chat.hufs.ac.kr](https://chat.hufs.ac.kr)</sub> | Structured RAG with cited regulations and regression tests · ~80 DAU, ~300 questions/day in week 2 |
 
-<sub>\* Conservative estimates as of 2026.02. Most of this work lives in private company repositories — details are in the [portfolio](https://puze8681.github.io).</sub>
+**Also** — [That's One DX platform](https://puze8681.github.io/portfolio/thats-one) · [PintaAI internal AX](https://puze8681.github.io/portfolio/pinta-ai-ax) · [Raintown Coupon](https://puze8681.github.io/portfolio/raintown-coupon) · NIA-verified barrier-free kiosk · [WVCAT](https://puze8681.github.io/portfolio/wvcat) payment-terminal library · field kiosks for Naver Chzzk and KLPGA
+
+### Experience
+
+| Period | Company | Role |
+| --- | --- | --- |
+| 2026.07 – 2026.09 | HYPERNOVA | Product Engineer |
+| 2021.12 – 2026.02 | Whiteblock | Developer |
+| 2021.02 – 2021.12 | loplat | Software Engineer |
+| 2019.12 – 2020.08 | Otgit | Android Developer |
+| 2019.08 – 2019.10 | Everywear | Android Developer |
+
+Hankuk University of Foreign Studies (enrolled) · SW Maestro 9th · 8 hackathon & app-contest awards
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,react,nextjs,ts,spring,fastapi,py,nodejs,firebase,postgres,gcp,docker,githubactions&perline=8" alt="Flutter, Dart, Kotlin, Swift, React, Next.js, TypeScript, Spring Boot, FastAPI, Python, Node.js, Firebase, PostgreSQL, GCP, Docker, GitHub Actions" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,swift,react,nextjs,ts,tailwind,spring,fastapi,py,nodejs,firebase,postgres,gcp,docker,githubactions&perline=9" alt="Flutter, Dart, Kotlin, Java, Swift, React, Next.js, TypeScript, Tailwind CSS, Spring Boot, FastAPI, Python, Node.js, Firebase, PostgreSQL, GCP, Docker, GitHub Actions" />
 
-Also: LLM / RAG / agentic workflows · Playwright automation · Fastlane · Sentry
+Also: React Native · LLM / RAG / agentic workflows · Playwright · Fastlane · queue-based architecture
 
-### Background
+### Resume & contact
 
-- HYPERNOVA (2026.07–2026.09) · Whiteblock (2021–2026) · loplat (2021) · Android developer at early-stage startups (2019–2020)
-- SW Maestro 9th · Sunrin Internet High School · 8 hackathon & app-contest awards
-
-### Contact
+Resume, portfolio, and impact-based career profile (PDF) are available on the [portfolio site](https://puze8681.github.io).
 
 [Portfolio](https://puze8681.github.io) · [LinkedIn](https://www.linkedin.com/in/puze8681) · [puze8681@gmail.com](mailto:puze8681@gmail.com)
