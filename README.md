@@ -36,4 +36,4 @@ Also: LLM / RAG / agentic workflows · Playwright automation · Fastlane · Sent
 
 ### Contact
 
-[Portfolio](https://puze8681.github.io) · [puze8681@gmail.com](mailto:puze8681@gmail.com)
+[Portfolio](https://puze8681.github.io) · [LinkedIn](https://www.linkedin.com/in/puze8681) · [puze8681@gmail.com](mailto:puze8681@gmail.com)
