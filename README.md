@@ -1,6 +1,6 @@
 ## Taejun Park · 박태준
 
-**AI Security Forward Deployment Engineer · Product Engineer**
+**AI Security Forward Deployed Engineer · Product Engineer**
 
 모바일을 중심으로 웹·백엔드·인프라·AI/AX를 연결해 온 7년차 Product Engineer입니다.
 불명확한 문제를 0→1 제품으로 만들고, 출시부터 고객 도입과 장기 운영까지 맡아왔습니다.
