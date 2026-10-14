@@ -64,13 +64,19 @@ AI 에이전트 런타임 보안 제품의 고객 PoC·기술 연동·검증을 
 - **주식회사옷깃** · Android 개발자<br>2019.12 – 2020.08
 - **에브리웨어** · Android 개발자<br>2019.08 – 2019.10
 
-한국외국어대학교 컴퓨터공학부 재학 중 · 소프트웨어 마에스트로 9기 · 해커톤·앱 경진대회 수상 8회
+### 학력·활동
+
+- **한국외국어대학교 컴퓨터공학부** — 재학 중
+- **소프트웨어 마에스트로** — 9기
+- **해커톤·앱 경진대회** — 수상 8회
 
 ### 기술 스택
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,swift,react,nextjs,ts,tailwind,spring,fastapi,py,nodejs,firebase,postgres,gcp,docker,githubactions&perline=9" alt="Flutter, Dart, Kotlin, Java, Swift, React, Next.js, TypeScript, Tailwind CSS, Spring Boot, FastAPI, Python, Node.js, Firebase, PostgreSQL, GCP, Docker, GitHub Actions" />
-
-React Native · LLM / RAG · AI 에이전트 워크플로 · Playwright · Fastlane · 큐 기반 아키텍처
+- **모바일** — **Flutter · Dart** 중심 · Kotlin · Java · Swift · React Native
+- **웹** — React · Next.js · TypeScript · Tailwind CSS
+- **백엔드·데이터** — Spring Boot · FastAPI · Python · Node.js · Firebase · PostgreSQL
+- **AI/AX** — LLM · RAG · AI 에이전트 워크플로 · Playwright
+- **인프라·배포** — GCP · Docker · GitHub Actions · Fastlane · 큐 기반 아키텍처
 
 ### 문서와 연락처
 
